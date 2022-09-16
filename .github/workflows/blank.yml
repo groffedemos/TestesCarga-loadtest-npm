@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffeapicontagem.wonderfulgrass-92cf1b9b.eastus.azurecontainerapps.io/contador'
+  endpoint: 'https://groffecontagemlive.wonderfulgrass-92cf1b9b.eastus.azurecontainerapps.io/contador'
   concurrentUsers: 70
   totalRequests: 5000
 
