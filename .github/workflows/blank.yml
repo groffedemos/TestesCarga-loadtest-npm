@@ -12,9 +12,9 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffecontagemlive.wonderfulgrass-92cf1b9b.eastus.azurecontainerapps.io/contador'
+  endpoint: 'https://votacaofestival.orangefield-daaba63f.eastus.azurecontainerapps.io/Votacao/VotoTecnologia'
   concurrentUsers: 70
-  totalRequests: 5000
+  totalRequests: 6000
 
 jobs:
   loadtests:
