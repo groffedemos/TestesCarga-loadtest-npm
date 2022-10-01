@@ -13,8 +13,8 @@ on:
 
 env:
   endpoint: 'https://groffeapicontagem.braveforest-cafa49fa.eastus.azurecontainerapps.io/contador'
-  concurrentUsers: 70
-  totalRequests: 6000
+  concurrentUsers: 120
+  totalRequests: 10000
 
 jobs:
   loadtests:
