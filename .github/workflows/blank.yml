@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffeapicontagem.braveforest-cafa49fa.eastus.azurecontainerapps.io/contador'
+  endpoint: 'https://groffesitequestao.jollyglacier-96107ed4.eastus.azurecontainerapps.io/Votacao/VotoEsportes'
   concurrentUsers: 80
   totalRequests: 2400
 
