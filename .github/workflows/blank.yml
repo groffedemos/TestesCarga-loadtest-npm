@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffesitepesquisa.ashypond-526cde28.eastus.azurecontainerapps.io/Votacao/VotoTecnologia'
+  endpoint: 'https://groffesitequestao.ashypond-526cde28.eastus.azurecontainerapps.io'
   concurrentUsers: 150
   totalRequests: 7500
 
