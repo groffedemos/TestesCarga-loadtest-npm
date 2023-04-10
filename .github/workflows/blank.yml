@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://enquetecopa.azurewebsites.net/Votacao/VotoFranca'
+  endpoint: 'https://groffecontagemrabbitmq--kp6xw6e.greenmoss-3b87fb38.eastus.azurecontainerapps.io/contador'
   concurrentUsers: 150
   totalRequests: 7500
 
