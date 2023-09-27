@@ -13,8 +13,8 @@ on:
 
 env:
   endpoint: 'https://groffecontagemservicebus.purplehill-3fd75d15.eastus.azurecontainerapps.io/contador'
-  concurrentUsers: 150
-  totalRequests: 7500
+  concurrentUsers: 30
+  totalRequests: 2500
 
 jobs:
   loadtests:
