@@ -12,9 +12,9 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'http://20.242.139.155/contador'
+  endpoint: 'http://20.253.120.132/contador'
   concurrentUsers: 50
-  totalRequests: 2000000
+  totalRequests: 100000
 
 jobs:
   loadtests:
