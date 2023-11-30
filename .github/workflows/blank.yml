@@ -12,9 +12,9 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffecontagemservicebus.purplehill-3fd75d15.eastus.azurecontainerapps.io/contador'
+  endpoint: 'http://4.157.149.163/contador'
   concurrentUsers: 30
-  totalRequests: 2500
+  totalRequests: 3500
 
 jobs:
   loadtests:
