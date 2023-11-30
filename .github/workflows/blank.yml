@@ -14,7 +14,7 @@ on:
 env:
   endpoint: 'http://4.157.149.163/contador'
   concurrentUsers: 50
-  totalRequests: 100000
+  totalRequests: 2000000
 
 jobs:
   loadtests:
