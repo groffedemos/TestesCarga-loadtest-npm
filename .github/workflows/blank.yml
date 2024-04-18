@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'http://20.253.120.132/contador'
+  endpoint: 'https://awesome-github-stats.azurewebsites.net/user-stats/brunhbrito/stats'
   concurrentUsers: 50
   totalRequests: 100000
 
