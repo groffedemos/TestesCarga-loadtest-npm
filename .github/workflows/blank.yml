@@ -13,8 +13,8 @@ on:
 
 env:
   endpoint: 'https://anp-votacao.bravesky-0b23ad01.eastus.azurecontainerapps.io/Votacao/VotoTecnologia'
-  concurrentUsers: 50
-  totalRequests: 20000
+  concurrentUsers: 100
+  totalRequests: 45000
 
 jobs:
   loadtests:
