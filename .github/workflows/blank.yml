@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://awesome-github-stats.azurewebsites.net/user-stats/brunhbrito/stats'
+  endpoint: 'https://anp-votacao.bravesky-0b23ad01.eastus.azurecontainerapps.io/?voto=Tecnologia'
   concurrentUsers: 50
   totalRequests: 100000
 
