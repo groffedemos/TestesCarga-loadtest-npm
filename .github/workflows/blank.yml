@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://anp-votacao.bravesky-0b23ad01.eastus.azurecontainerapps.io/Votacao/VotoTecnologia'
+  endpoint: 'https://groffecontadorapim.bravesky-0b23ad01.eastus.azurecontainerapps.io/contador'
   concurrentUsers: 100
   totalRequests: 7000
 
