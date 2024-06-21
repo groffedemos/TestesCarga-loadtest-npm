@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffecontadorapim.bravesky-0b23ad01.eastus.azurecontainerapps.io/contador'
+  endpoint: 'http://48.216.188.254/api/hello/GitHubActions'
   concurrentUsers: 100
   totalRequests: 7000
 
