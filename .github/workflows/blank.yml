@@ -13,7 +13,7 @@ on:
 
 env:
   endpoint: 'http://48.216.195.99/api/hello/GitHubActions'
-  concurrentUsers: 100
+  concurrentUsers: 30
   totalRequests: 7000
 
 jobs:
