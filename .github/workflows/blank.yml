@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'http://48.216.195.99/api/hello/GitHubActions'
+  endpoint: 'https://groffe-enquete-copaamerica2024.redground-49255508.eastus.azurecontainerapps.io/Votacao/VotoBrasil'
   concurrentUsers: 50
   totalRequests: 30000
 
