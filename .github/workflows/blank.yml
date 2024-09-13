@@ -13,8 +13,8 @@ on:
 
 env:
   endpoint: 'https://groffesharebook.azurewebsites.net/api/ValorAtual?code=J8pos1Urj7gdGrVdFm-nZU1rROZ6tfMG9Aua-1bbauxXAzFuAtDrEA%3D%3D'
-  concurrentUsers: 50
-  totalRequests: 5000
+  concurrentUsers: 150
+  totalRequests: 15000
 
 jobs:
   loadtests:
