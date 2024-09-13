@@ -12,9 +12,9 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffe-enquete-copaamerica2024.redground-49255508.eastus.azurecontainerapps.io/Votacao/VotoBrasil'
+  endpoint: 'https://groffesharebook.azurewebsites.net/api/ValorAtual?code=J8pos1Urj7gdGrVdFm-nZU1rROZ6tfMG9Aua-1bbauxXAzFuAtDrEA%3D%3D'
   concurrentUsers: 50
-  totalRequests: 30000
+  totalRequests: 5000
 
 jobs:
   loadtests:
