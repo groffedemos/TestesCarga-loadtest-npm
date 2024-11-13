@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  endpoint: 'https://groffesharebook.azurewebsites.net/api/ValorAtual?code=J8pos1Urj7gdGrVdFm-nZU1rROZ6tfMG9Aua-1bbauxXAzFuAtDrEA%3D%3D'
+  endpoint: 'https://groffefiap01.blackriver-8e60d4a7.eastus.azurecontainerapps.io/swagger/index.html'
   concurrentUsers: 150
   totalRequests: 15000
 
